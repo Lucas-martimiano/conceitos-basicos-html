@@ -21,6 +21,10 @@ hr {
     margin-top: 2rem;
 }
 
+section {
+    margin-bottom: 2rem;
+}
+
 section h2 {
     text-align: center;
     margin-top: 2rem;
@@ -31,4 +35,8 @@ section p {
     margin: 0 8rem;
     border: solid 2px #ccc;
     padding: 1.5em;
+}
+
+strong {
+    color: rgb(248, 67, 67);
 }
