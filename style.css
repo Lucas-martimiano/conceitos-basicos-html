@@ -40,3 +40,12 @@ section p {
 strong {
     color: rgb(248, 67, 67);
 }
+
+footer p {
+    text-align:center;
+    padding: 1em;
+}
+
+footer p a {
+   color: white;
+}
